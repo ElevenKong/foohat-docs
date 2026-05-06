@@ -1,7 +1,7 @@
 # Foohat: Online Booking and Management Software for Salon, SPA and Wellness Businesses.
 
 <div align="center">
-  <img src="https://www.foohat.com/logo/foohat-logo.png" alt="Foohat Logo - Salon Software" width="200">
+  <img src="https://www.foohat.com/logo/foohat-logo.webp" alt="Foohat Logo - Salon Software" width="200">
 </div>
 
 **Meta Description:** Discover Foohat, the comprehensive salon management and booking software designed for beauty, wellness, and fitness businesses. Streamline operations, boost bookings, and grow your business with powerful automation tools.
@@ -15,7 +15,7 @@ Foohat is a comprehensive **salon management software** and **online booking sys
 Whether you're running a hair salon, spa, nail studio, barbershop, yoga studio, or fitness center, Foohat offers tailored solutions to meet your unique business needs. With over **2,000 salons served** across **10+ countries and regions**, Foohat has established itself as a trusted partner for beauty and wellness professionals worldwide.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-hero-1197x948.png" alt="Foohat Salon Software Dashboard Interface" width="800">
+  <img src="https://www.foohat.com/images/home/foohat-salon-software-hero-1197x948.webp" alt="Foohat Salon Software Dashboard Interface" width="800">
   <p><em>Foohat's intuitive dashboard provides a comprehensive view of your salon operations</em></p>
 </div>
 
@@ -35,7 +35,7 @@ Foohat's **online booking software** empowers your clients to schedule appointme
 The online booking system reduces no-shows by up to 30% through automated SMS and email reminders, while increasing conversions by making it easy for clients to book anytime, anywhere.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-features-Booking.png" alt="Foohat Online Booking System Interface" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-booking-software-1254x1254.webp" alt="Foohat Online Booking System Interface" width="700">
   <p><em>Seamless online booking experience for your clients, available 24/7</em></p>
 </div>
 
@@ -53,7 +53,7 @@ Foohat's **intelligent scheduling system** eliminates double bookings and manual
 With Foohat's smart scheduling, salon owners save an average of 10+ hours per week on administrative tasks, allowing them to focus on what matters most: serving clients and growing their business.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-features-Scheduling.png" alt="Foohat Smart Scheduling Calendar View" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-scheduling-software-1254x1254.webp" alt="Foohat Smart Scheduling Calendar View" width="700">
   <p><em>Smart calendar view with color-coded appointments and staff management</em></p>
 </div>
 
@@ -71,7 +71,7 @@ Beyond scheduling, Foohat provides powerful **business management features** to 
 These tools help salon owners increase revenue by an average of 25% within the first year of using Foohat, according to customer data.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-features-Dashbord.png" alt="Foohat Business Management Dashboard with KPIs" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-management-software-1254x1254.webp" alt="Foohat Business Management Dashboard with KPIs" width="700">
   <p><em>Comprehensive dashboard with real-time analytics and performance metrics</em></p>
 </div>
 
@@ -93,24 +93,52 @@ Foohat is designed to serve a wide range of **beauty, wellness, and fitness busi
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Hair-Salon-1152x896.jpeg" alt="Hair Salon Management Software" width="300"></td>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-SPA-sauna-1152x896.jpeg" alt="SPA and Sauna Management Software" width="300"></td>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Nails-1024x768.webp" alt="Nail Salon Management Software" width="300"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Hair-Salon-1152x896.jpeg" alt="Hair Salon Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-SPA-sauna-1152x896.jpeg" alt="SPA and Sauna Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Nails-1024x768.webp" alt="Nail Salon Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Massage-1152x896.jpeg" alt="Massage Therapy Management Software" width="200"></td>
     </tr>
     <tr>
       <td align="center"><em>Hair Salon</em></td>
       <td align="center"><em>SPA & Sauna</em></td>
       <td align="center"><em>Nail Salon</em></td>
+      <td align="center"><em>Massage</em></td>
     </tr>
     <tr>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Barber-1024x768.webp" alt="Barbershop Management Software" width="300"></td>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Yoga-1152x896.jpeg" alt="Yoga Studio Management Software" width="300"></td>
-      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Gym-1024x768.webp" alt="Gym and Fitness Center Management Software" width="300"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Barber-1024x768.webp" alt="Barbershop Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Wellness-1024x768.webp" alt="Wellness Center Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Medicine-Spa-1024x768.webp" alt="Medspa Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Fitness-1024x768.webp" alt="Fitness & Recovery Management Software" width="200"></td>
     </tr>
     <tr>
       <td align="center"><em>Barbershop</em></td>
-      <td align="center"><em>Yoga Studio</em></td>
-      <td align="center"><em>Gym & Fitness</em></td>
+      <td align="center"><em>Wellness</em></td>
+      <td align="center"><em>Medspa</em></td>
+      <td align="center"><em>Fitness & Recovery</em></td>
+    </tr>
+    <tr>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Physical-Therapy-1024x768.webp" alt="Physical Therapy Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Gym-1024x768.webp" alt="Gym Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Tattoo-Piercing-1152x896.jpeg" alt="Tattoo & Piercing Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Tanning-Studio-1024x576.webp" alt="Tanning Studio Management Software" width="200"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Physical Therapy</em></td>
+      <td align="center"><em>GYM</em></td>
+      <td align="center"><em>Tattoo & Piercing</em></td>
+      <td align="center"><em>Tanning Studio</em></td>
+    </tr>
+    <tr>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Yoga-1152x896.jpeg" alt="Yoga Studio Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Pilates-1024x768.webp" alt="Pilates Studio Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Swimming-Aquatic-Center-1024x768.webp" alt="Swimming & Aquatic Center Management Software" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/foohat-business-types-Pet-Grooming-1152x896.jpeg" alt="Pet Grooming Management Software" width="200"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Yoga</em></td>
+      <td align="center"><em>Pilates</em></td>
+      <td align="center"><em>Swimming & Aquatic</em></td>
+      <td align="center"><em>Pet Grooming</em></td>
     </tr>
   </table>
   <p><em>Foohat serves diverse beauty, wellness, and fitness businesses worldwide</em></p>
@@ -132,10 +160,10 @@ With **2,000+ salons served** and a presence in **10+ countries and regions**, F
   <h4>Trusted by Top Salons</h4>
   <table>
     <tr>
-      <td><img src="https://www.foohat.com/images/home/client-bob-steele.png" alt="Bob Steele Salon - Foohat Client" width="200"></td>
-      <td><img src="https://www.foohat.com/images/home/client-currie.png" alt="Currie Hair Skin Nails - Foohat Client" width="200"></td>
-      <td><img src="https://www.foohat.com/images/home/client-danny-jelaca.png" alt="Danny Jelaca Salon & Spa - Foohat Client" width="200"></td>
-      <td><img src="https://www.foohat.com/images/home/client-tangerine-salon.png" alt="Tangerine Salon - Foohat Client" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/client-bob-steele.webp" alt="Bob Steele Salon - Foohat Client" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/client-currie.webp" alt="Currie Hair Skin Nails - Foohat Client" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/client-danny-jelaca.webp" alt="Danny Jelaca Salon & Spa - Foohat Client" width="200"></td>
+      <td><img src="https://www.foohat.com/images/home/client-tangerine-salon.webp" alt="Tangerine Salon - Foohat Client" width="200"></td>
     </tr>
   </table>
   <p><em>Join thousands of satisfied salon owners who trust Foohat</em></p>
