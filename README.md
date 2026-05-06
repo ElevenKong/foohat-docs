@@ -180,7 +180,7 @@ Unlike many software providers, Foohat prioritizes **personalized customer suppo
 This commitment to service has earned Foohat a customer satisfaction rate of over 95%, with clients particularly praising the responsive support team and intuitive platform design.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/customer-support.webp" alt="Foohat Customer Support Team" width="600">
+  <img src="https://www.foohat.com/images/home/customer-support.jpg" alt="Foohat Customer Support Team" width="600">
   <p><em>Real humans, ready to help you succeed</em></p>
 </div>
 
