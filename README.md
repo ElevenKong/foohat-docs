@@ -6,7 +6,7 @@
 
 **Meta Description:** Discover Foohat, the comprehensive salon management and booking software designed for beauty, wellness, and fitness businesses. Streamline operations, boost bookings, and grow your business with powerful automation tools.
 
----
+***
 
 ## What is Foohat?
 
@@ -15,7 +15,7 @@ Foohat is a comprehensive **salon management software** and **online booking sys
 Whether you're running a hair salon, spa, nail studio, barbershop, yoga studio, or fitness center, Foohat offers tailored solutions to meet your unique business needs. With over **2,000 salons served** across **10+ countries and regions**, Foohat has established itself as a trusted partner for beauty and wellness professionals worldwide.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-salon-software-hero-1197x948.webp" alt="Foohat Salon Software Dashboard Interface" width="800">
+  <img src="https://www.foohat.com/images/home/foohat-salon-software-hero.webp" alt="Foohat Salon Software Dashboard Interface" width="800">
   <p><em>Foohat's intuitive dashboard provides a comprehensive view of your salon operations</em></p>
 </div>
 
@@ -35,7 +35,7 @@ Foohat's **online booking software** empowers your clients to schedule appointme
 The online booking system reduces no-shows by up to 30% through automated SMS and email reminders, while increasing conversions by making it easy for clients to book anytime, anywhere.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-salon-booking-software-1254x1254.webp" alt="Foohat Online Booking System Interface" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-booking-software.webp" alt="Foohat Online Booking System Interface" width="700">
   <p><em>Seamless online booking experience for your clients, available 24/7</em></p>
 </div>
 
@@ -53,7 +53,7 @@ Foohat's **intelligent scheduling system** eliminates double bookings and manual
 With Foohat's smart scheduling, salon owners save an average of 10+ hours per week on administrative tasks, allowing them to focus on what matters most: serving clients and growing their business.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-salon-scheduling-software-1254x1254.webp" alt="Foohat Smart Scheduling Calendar View" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-scheduling-software.webp" alt="Foohat Smart Scheduling Calendar View" width="700">
   <p><em>Smart calendar view with color-coded appointments and staff management</em></p>
 </div>
 
@@ -71,7 +71,7 @@ Beyond scheduling, Foohat provides powerful **business management features** to 
 These tools help salon owners increase revenue by an average of 25% within the first year of using Foohat, according to customer data.
 
 <div align="center">
-  <img src="https://www.foohat.com/images/home/foohat-salon-management-software-1254x1254.webp" alt="Foohat Business Management Dashboard with KPIs" width="700">
+  <img src="https://www.foohat.com/images/home/foohat-salon-management-software.webp" alt="Foohat Business Management Dashboard with KPIs" width="700">
   <p><em>Comprehensive dashboard with real-time analytics and performance metrics</em></p>
 </div>
 
@@ -225,7 +225,7 @@ Whether you're a booth renter just starting out, a single-location salon looking
 
 **Ready to streamline your salon operations and boost your bookings?** Start your free trial today at [Foohat.com](https://www.foohat.com) and discover why thousands of beauty and wellness professionals trust Foohat to power their businesses.
 
----
+***
 
 ## Additional Resources
 
@@ -233,7 +233,7 @@ Whether you're a booth renter just starting out, a single-location salon looking
 - [FAQs](https://www.foohat.com/resources/faq)
 - [Contact Support](https://www.foohat.com/resources/contact)
 
----
+***
 
 **About Foohat**
 
@@ -241,7 +241,6 @@ Foohat is a leading provider of salon management and online booking software, se
 
 *Last Updated: May 2026*
 
----
+***
 
 **Keywords**: salon software, salon management software, online booking system, beauty salon software, spa management software, hair salon booking, nail salon software, barbershop management, wellness business tools, fitness center scheduling, yoga studio software, appointment scheduling software, salon POS, client management, staff scheduling, salon marketing tools
-
