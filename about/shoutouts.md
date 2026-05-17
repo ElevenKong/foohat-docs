@@ -3,28 +3,31 @@
 > **Shoutouts** are product endorsements/testimonials that can be used across Product Hunt, social media, partner pages, and more.
 
 **Use Cases:**
+
 - Product Hunt launch endorsements for other products
 - Social media promotion (Twitter, LinkedIn, etc.)
 - Partner cross-promotion
 - Media interview quotes
 - Product landing page testimonials
 
----
+***
 
 ## About Foohat
 
-**Foohat** is a modern salon management SaaS that helps beauty & wellness professionals save 15+ hours weekly, reduce no-shows by 25%, and grow revenue by 30% in just 6 months. Built by salon owners for salon owners, it offers 24/7 online booking, smart scheduling, POS, loyalty programs, gift cards, and real-time analytics—all in one beautiful, mobile-first platform. Supporting 16+ industry verticals from hair salons to pet grooming, 2,000+ businesses across 20+ countries trust Foohat to run their operations.
+**Foohat** is a modern salon management SaaS built by salon owners for salon owners, it offers 24/7 online booking, smart scheduling, POS, loyalty programs, gift cards, real-time analytics, and marketing to reduce no-shows, fill calendars, and boost revenue. Use client portals, reviews, gift cards, loyalty and referrals, while tracking KPIs with reports and dashboards. Launch memberships and classes, and drive repeat visits with targeted email, SMS, and social campaigns. all in one beautiful, mobile-first platform.
 
-| Key Metrics | Value |
-|-------------|-------|
-| **25%** | Reduction in no-shows |
-| **15+ hrs/week** | Saved on admin tasks |
-| **30%** | Revenue growth in 6 months |
-| **16+** | Industry verticals supported |
+**Foohat** helps beauty & wellness professionals save 15+ hours weekly, reduce no-shows by 25%, and grow revenue by 30% in just 6 months. Supporting 16+ industry verticals from hair salons to pet grooming, 2,000+ businesses across 20+ countries trust Foohat to run their operations.
+
+| Key Metrics      | Value                        |
+| ---------------- | ---------------------------- |
+| **25%**          | Reduction in no-shows        |
+| **15+ hrs/week** | Saved on admin tasks         |
+| **30%**          | Revenue growth in 6 months   |
+| **16+**          | Industry verticals supported |
 
 **Get Started:** [Free 30-Day Trial](https://app.foohat.com/signup) · No credit card required
 
----
+***
 
 ## Shoutout #1 - User Pain Point Perspective
 
@@ -34,7 +37,7 @@
 
 **Best for:** Product Hunt, Twitter, LinkedIn
 
----
+***
 
 ## Shoutout #2 - Product Value Perspective
 
@@ -44,7 +47,7 @@
 
 **Best for:** Product Hunt, media interviews, partner pages
 
----
+***
 
 ## Shoutout #3 - Industry Transformation Perspective
 
@@ -54,18 +57,18 @@
 
 **Best for:** Product Hunt, landing pages, blog posts
 
----
+***
 
 ## Usage Tips
 
-| Tip | Description |
-|-----|-------------|
-| **Platform Adaptation** | Adjust length and tone based on the platform |
-| **Personalization** | Fine-tune content based on real user feedback |
-| **Visual Support** | Pair with product screenshots or user case images |
-| **CTA Integration** | Each Shoutout has built-in call-to-action |
+| Tip                     | Description                                       |
+| ----------------------- | ------------------------------------------------- |
+| **Platform Adaptation** | Adjust length and tone based on the platform      |
+| **Personalization**     | Fine-tune content based on real user feedback     |
+| **Visual Support**      | Pair with product screenshots or user case images |
+| **CTA Integration**     | Each Shoutout has built-in call-to-action         |
 
----
+***
 
 ## Key Advantages
 
@@ -75,29 +78,29 @@
 - ✅ Global support (20+ countries, multi-language, multi-currency)
 - ✅ Affordable pricing with low barrier to entry
 
----
+***
 
 ## Supported Industries
 
 Foohat supports **16+ beauty and wellness verticals**:
 
-| Industry Types | | | |
-|----------------|-----------|-----------|-----------|
-| Hair Salon | SPA & Sauna | Nails | Massage |
-| Barber Shop | Wellness Center | Medspa | GYM |
-| Yoga Studio | Pilates | Swimming Center | Pet Grooming |
-| Tattoo & Piercing | Tanning Studio | Physical Therapy | Fitness & Recovery |
+| Industry Types    | <br />          | <br />           | <br />             |
+| ----------------- | --------------- | ---------------- | ------------------ |
+| Hair Salon        | SPA & Sauna     | Nails            | Massage            |
+| Barber Shop       | Wellness Center | Medspa           | GYM                |
+| Yoga Studio       | Pilates         | Swimming Center  | Pet Grooming       |
+| Tattoo & Piercing | Tanning Studio  | Physical Therapy | Fitness & Recovery |
 
----
+***
 
 ## Get Started
 
-| Link | Description |
-|------|-------------|
-| [Website](https://www.foohat.com) | Learn more about Foohat |
-| [Pricing](https://www.foohat.com/pricing) | View flexible pricing plans |
+| Link                                        | Description                                |
+| ------------------------------------------- | ------------------------------------------ |
+| [Website](https://www.foohat.com)           | Learn more about Foohat                    |
+| [Pricing](https://www.foohat.com/pricing)   | View flexible pricing plans                |
 | [Free Trial](https://app.foohat.com/signup) | 30-day free trial, no credit card required |
 
----
+***
 
 **Tags:** `#salon-management` `#booking-software` `#beauty-industry` `#saas` `#appointment-scheduling` `#pos-system` `#salon-software`

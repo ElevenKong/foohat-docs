@@ -1,7 +1,8 @@
 # Transforming Salon Management: The Story Behind Foohat
 
-> **Foohat** is a modern SaaS management platform built for the beauty and wellness industry. [Start your free 30-day trial →](https://app.foohat.com/signup)
+> **Foohat** is a modern SaaS management platform built for the beauty and wellness industry. Salon Software with Booking, Scheduling, POS, CRM, and Marketing. [Start your free 30-day trial →](https://app.foohat.com/signup)
 
+Foohat helps beauty, wellness, and fitness businesses run their operations from one place. It combines online booking, smart scheduling, POS, CRM, and marketing to reduce no-shows, fill calendars, and boost revenue. Use client portals, reviews, gift cards, loyalty and referrals, while tracking KPIs with reports and dashboards. Launch memberships and classes, and drive repeat visits with targeted email, SMS, and social campaigns.
 ---
 
 ## 1. What inspired me to build Foohat?
