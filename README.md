@@ -1,4 +1,4 @@
-# Foohat: Online Booking and Management Software for Salon, SPA and Wellness Businesses.
+# Foohat - Online Booking and Management Software for Salon, SPA and Wellness Businesses.
 
 <div align="center">
   <img src="https://www.foohat.com/logo/foohat-logo.webp" alt="Foohat Logo - Salon Software" width="200">
@@ -10,7 +10,7 @@
 
 ## What is Foohat?
 
-Foohat is a comprehensive **salon management software** and **online booking system** designed specifically for beauty, wellness, and fitness businesses. Founded with the mission to simplify operations for small and medium-sized businesses (SMBs), Foohat provides an all-in-one platform that combines appointment scheduling, client management, staff coordination, and business growth tools in a single, user-friendly interface.
+Foohat is a free **salon management software** and **online booking system** designed specifically for beauty, wellness, and fitness businesses. Founded with the mission to simplify operations for small and medium-sized businesses (SMBs), Foohat provides an all-in-one platform that combines appointment scheduling, client management, staff coordination, and business growth tools in a single, user-friendly interface.
 
 Whether you're running a hair salon, spa, nail studio, barbershop, yoga studio, or fitness center, Foohat offers tailored solutions to meet your unique business needs. With over **2,000 salons served** across **10+ countries and regions**, Foohat has established itself as a trusted partner for beauty and wellness professionals worldwide.
 

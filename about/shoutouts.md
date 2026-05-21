@@ -14,9 +14,9 @@
 
 ## About Foohat
 
-**Foohat** is a modern salon management SaaS built by salon owners for salon owners, it offers 24/7 online booking, smart scheduling, POS, loyalty programs, gift cards, real-time analytics, and marketing to reduce no-shows, fill calendars, and boost revenue. Use client portals, reviews, gift cards, loyalty and referrals, while tracking KPIs with reports and dashboards. Launch memberships and classes, and drive repeat visits with targeted email, SMS, and social campaigns. all in one beautiful, mobile-first platform.
+**Foohat** is a free salon management SaaS for salon owners, it offers 24/7 online booking, smart scheduling, POS, loyalty programs, gift cards, real-time analytics, and marketing to reduce no-shows, fill calendars, and boost revenue. Use client portals, reviews, gift cards, loyalty and referrals, while tracking KPIs with reports and dashboards. Launch memberships and classes, and drive repeat visits with targeted email, SMS, and social campaigns. all in one beautiful, mobile-first platform.
 
-**Foohat** helps beauty & wellness professionals save 15+ hours weekly, reduce no-shows by 25%, and grow revenue by 30% in just 6 months. Supporting 16+ industry verticals from hair salons to pet grooming, 2,000+ businesses across 20+ countries trust Foohat to run their operations.
+**Foohat** helps beauty, wellness and fitness professionals save 15+ hours weekly, reduce no-shows by 25%, and grow revenue by 30% in just 6 months. Supporting 16+ industry verticals from hair salons to pet grooming, 2,000+ businesses across 20+ countries trust Foohat to run their operations.
 
 | Key Metrics      | Value                        |
 | ---------------- | ---------------------------- |
